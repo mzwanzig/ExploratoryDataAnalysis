@@ -5,33 +5,33 @@ Understanding the structure, basic properties and relationships in a given datas
 
 ## Outline
 
-1. SETUP R
-2. IMPORT AND OVERVIEW
-2.1. Inspect and format raw data
-2.2. Screen for missing values in the data
-2.3. Screen for zeros in the data
-2.4. Count observations per group
-2.5. Locate measurement points
-3.INDEPENDENCE OF OBSERVATIONS
-3.1. Inspect the response vs. space
-3.1.1. ... for single time points
-3.1.2. ... aggregating time points
-3.2. Inspect the response vs. time
-4. OUTLIERS
-4.1. Draw boxplots
-4.2. Draw Cleveland dotplots
-4.3. Draw scatterplots
-4.4. Perform formal tests
-4.5. Identify influential observations
-5. NORMALITY AND HOMOSCEDASTICITY
-5.1. Inspect the distribution of the response
-5.2. Inspect the group-specific spread of the response
-6. RELATIONSHIPS OF VARIABLES
-6.1. Inspect relations and interactions of variables
-6.2. Inspect collinearity
-7. TRANSFORMATIONS
-7.1. Routines for potential transformations and back transformation
-7.2. Regression example: gross precipiation vs. throughfall
+- 1.SETUP R
+- 2.IMPORT AND OVERVIEW
+- 2.1. Inspect and format raw data
+- 2.2. Screen for missing values in the data
+- 2.3. Screen for zeros in the data
+- 2.4. Count observations per group
+- 2.5. Locate measurement points
+- 3.INDEPENDENCE OF OBSERVATIONS
+- 3.1. Inspect the response vs. space
+- 3.1.1. ... for single time points
+- 3.1.2. ... aggregating time points
+- 3.2. Inspect the response vs. time
+- 4.OUTLIERS
+- 4.1. Draw boxplots
+- 4.2. Draw Cleveland dotplots
+- 4.3. Draw scatterplots
+- 4.4. Perform formal tests
+- 4.5. Identify influential observations
+- 5.NORMALITY AND HOMOSCEDASTICITY
+- 5.1. Inspect the distribution of the response
+- 5.2. Inspect the group-specific spread of the response
+- 6.RELATIONSHIPS OF VARIABLES
+- 6.1. Inspect relations and interactions of variables
+- 6.2. Inspect collinearity
+- 7.TRANSFORMATIONS
+- 7.1. Routines for potential transformations and back transformation
+- 7.2. Regression example: gross precipiation vs. throughfall
 
 ## Example
 
